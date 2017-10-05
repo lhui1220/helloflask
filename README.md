@@ -1,2 +1,2 @@
 # helloflask
-A docker get started project.
+A get started project based on Docker.
