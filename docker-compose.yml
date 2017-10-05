@@ -13,6 +13,8 @@ services:
         condition: on-failure
     ports:
       - "80:80"
+    environment:
+      NAME: Docker
     networks:
       - webnet
   visualizer:
